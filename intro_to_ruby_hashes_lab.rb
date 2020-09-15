@@ -5,6 +5,8 @@ end
 
 def actor
  funny_actor = { name: "Dwayne the Rock Johnson" }
+ 
+ funny_actor
 end
 
 def monopoly
