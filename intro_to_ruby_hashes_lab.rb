@@ -1,5 +1,5 @@
-def new_hash(new)
-  new = {}
+def new_hash
+  {}
 
 end
 
